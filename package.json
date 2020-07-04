@@ -1,0 +1,32 @@
+{
+  "name": "zingchart-darkmode",
+  "version": "1.0.0",
+  "description": "This a deviant on Zinchart to use DarkMode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezzio-salas/zingchart-Darkmode.git"
+  },
+  "keywords": [
+    "Darkmode",
+    "Zingchart"
+  ],
+  "author": "ezzio.salas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezzio-salas/zingchart-Darkmode/issues"
+  },
+  "homepage": "https://github.com/ezzio-salas/zingchart-Darkmode#readme",
+  "dependencies": {
+    "@types/node": "^14.0.14",
+    "browserify": "^16.5.1",
+    "core-utils": "0.0.4",
+    "express": "^4.17.1",
+    "nvm": "0.0.4",
+    "zingchart": "^2.9.0",
+    "zingchart-web-component": "0.0.1"
+  }
+}
